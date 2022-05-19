@@ -64,6 +64,11 @@ a {
     margin-left: 20px;
 }
 
+.content-title {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .content-fill {
     margin-bottom: 20px;
     padding: 50px;
@@ -71,6 +76,10 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.content-img {
+    max-height: 200px;
 }
 
 .float-left {
@@ -81,19 +90,6 @@ a {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content-img {
-    max-height: 200px;
-}
-
-.content-title {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* benefits style */
